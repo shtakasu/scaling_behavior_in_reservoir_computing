@@ -5,6 +5,5 @@ authors:
   given-names: "Shotaro"
 title: "Source code of the article entitled "Neuronal correlations shape the scaling behavior of memory capacity and nonlinear computational capability of recurrent neural networks""
 version: 1.0.0
-doi: 10.5281/zenodo.1234
 date-released: 2025-05-15
 url: "https://github.com/shtakasu/scaling_behavior_in_reservoir_computing.git"
